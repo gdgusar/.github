@@ -14,7 +14,7 @@ We are a passionate community of student developers based in the Delhi-NCR regio
 GDG USAR is an inclusive environment where everyone is encouraged to learn and grow together. We organize a variety of events, from hands-on workshops to expert talks and community projects.
 
 ---
-
+<!--
 ## 🚀 Our Technology Universe
 
 We explore a wide range of technologies, with a special focus on the Google developer ecosystem:
@@ -27,16 +27,26 @@ We explore a wide range of technologies, with a special focus on the Google deve
 | **AI / ML** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />                                |
 
 ---
+-->
 
 ## 🔗 Connect With Us & Get Involved!
 
 The best way to stay updated is to join our community and follow our channels.
 
-* 🌐 **Official Website:** [**gdgusar.github.io**](https://gdgusar.vercel.app)
-* 💬 **Join our Community:** [**Discord Server**]()
-* 🔗 **Follow us on LinkedIn:** [**GDG USAR**]()
-* 🐦 **Follow us on X (Twitter):** [**@gdgusar**]()
-* 📸 **Follow us on Instagram:** [**@gdgusar**]()
+<div align="center">
+  <a href="https://gdgusar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"/>
+  </a>
+  <a href="https://discord.gg/jYryQdZAx" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community"/>
+  </a>
+  <a href="https://www.linkedin.com/company/gdgusar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Page"/>
+  </a>
+  <a href="https://www.instagram.com/gdg_usar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
+  </a>
+</div>
 
 ---
 <!--- 
@@ -50,7 +60,7 @@ We believe in building in the open! All our projects, including our main website
 
 We're excited to see what you'll build with us!
 ---
---->
+
 
 ## ✨ Our Featured Projects
 
@@ -62,6 +72,8 @@ Here are some of the projects we are actively working on. Feel free to explore a
 | | | |
 
 <br>
+--->
+
 <!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
